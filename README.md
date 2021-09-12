@@ -10,3 +10,6 @@ The project was developed by an interdisciplinary team of 5 members and allowed 
 ![index](https://user-images.githubusercontent.com/65148768/133005438-e0e05b35-f836-4820-8508-aa7608235445.JPG)
 ![resource](https://user-images.githubusercontent.com/65148768/133005439-eb754f8e-dd91-49a2-976c-653b7596441a.JPG)
 ![search](https://user-images.githubusercontent.com/65148768/133005440-3befb21d-8821-4859-9afb-fc20a6ab6632.JPG)
+
+Demo video:
+https://www.youtube.com/watch?v=0xaOh2FszJo
